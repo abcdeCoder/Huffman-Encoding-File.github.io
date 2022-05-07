@@ -1,6 +1,6 @@
 # Huffman-Encoding-File.github.io
 # Web App link
-**https://huffman-encoding-file-zipper.herokuapp.com/**
+**https://abcdecoder.github.io/Huffman-Encoding-File.github.io/**
 
 
 # About
